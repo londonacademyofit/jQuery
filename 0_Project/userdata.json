@@ -6,7 +6,10 @@
 
 			"name": "Beyonce Knowles",
 			"photo": "http://i.forbesimg.com/media/lists/people/beyonce-knowles_100x100.jpg",
-			"lastupdate": "2014-09-22"
+			"lastupdate": {
+				"date": "2014-09-22",
+				"content": "We all have our imperfections. But I'm human, and you know, it's important to concentrate on other qualities besides outer beauty."
+			}
 
 		},
 
@@ -14,7 +17,10 @@
 
 			"name": "Dr Dre",
 			"photo": "http://i.forbesimg.com/media/lists/people/dr-dre_100x100.jpg",
-			"lastupdate": "2014-09-19"
+			"lastupdate": {
+				"date": "2014-09-19",
+				"content": "When the ideas are coming, I don't stop until the ideas stop because that train doesn't come along all the time."
+			}
 
 		},
 
@@ -22,7 +28,10 @@
 
 			"name": "Oprah Winfrey",
 			"photo": "http://i.forbesimg.com/media/lists/people/oprah-winfrey_100x100.jpg",
-			"lastupdate": "2014-09-22"
+			"lastupdate": {
+				"date": "2014-09-22",
+				"content": "The more you praise and celebrate your life, the more there is in life to celebrate."
+			}
 
 		},
 
@@ -30,7 +39,10 @@
 
 			"name": "Ellen DeGeneres",
 			"photo": "http://i.forbesimg.com/media/lists/people/ellen-degeneres_100x100.jpg",
-			"lastupdate": "2014-09-21"
+			"lastupdate": {
+				"date": "2014-09-21",
+				"content": "My grandmother started walking five miles a day when she was sixty. She's ninety-seven now, and we don't know where the hell she is."
+			}
 
 		},
 
@@ -38,7 +50,10 @@
 
 			"name": "Raphael Nadal",
 			"photo": "http://i.forbesimg.com/media/lists/people/rafael-nadal_100x100.jpg",
-			"lastupdate": "2014-09-22"
+			"lastupdate": {
+				"date": "2014-09-22",
+				"content": "I only ever run when there's some point to it - say, if it's in a game of tennis."
+			}
 
 		}
 
