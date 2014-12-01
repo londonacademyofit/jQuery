@@ -1,6 +1,6 @@
 jQuery
 ======
 
-Here all the HTML needed for the jQuery exercises and class project can be found.
+Here you'll find HTML snippets to go with various jQuery exercises.
 
-Learn more about this jQuery class here: http://www.londonacademyofit.co.uk/
+These exercises are part of the London Academy of IT's practical <a href="http://www.londonacademyofit.co.uk/training-course-jquery.aspx">jQuery short course</a>.
